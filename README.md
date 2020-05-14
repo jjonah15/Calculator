@@ -1,2 +1,2 @@
 # Calculator
-Very elementary code for a unaesthetic calculator
+Very elementary code for a calculator
